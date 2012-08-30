@@ -25,7 +25,7 @@
 [F3-08] "E per scoprirlo, ci occorre cominciare altrove..."
 [F4-08] "Non passerò un'altra volta la stessa cosa! Possiamo continuare per favore?"
 [F5-08] "Er, Mi dispiace... mi sono fatto prendere... come hai fatto tu."
-[F6-08] "Hai commesso un errore venendo qui, Bardo. Non hai possibilità di superarmi, alza i tacchi e vattene."
+[F6-08] "Hai commesso un errore venendo qui, Bardo. Non hai possibilità di superarmi, voltati e vattene."
 [F7-08] "Se non ho alcuna possibilità, perché mi proponete un'uscita? Per caso siete spaventato senza l'aiuto della vostra bestiola?"
 [F8-08] "Questa volta di voi me ne occuperò personalmente, Bardo."
 [F9-08] "Finalmente ci incontriamo."

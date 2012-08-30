@@ -265,7 +265,7 @@
 [CC-08] "Immediatamente, signore."
 [CD-08] "Mackay... sveglia il mio... cucciolo."
 [CE-08] "Sì, mio signore Fionnaoch."
-[F6-08] "Hai commesso un errore venendo qui, Bardo. Non hai possibilità di superarmi, alza i tacchi e vattene."
+[F6-08] "Hai commesso un errore venendo qui, Bardo. Non hai possibilità di superarmi, voltati e vattene."
 [F8-08] "Questa volta mi prenderò io cura di te, Bardo."
 [FF-08] "Oh mio eroe, finalmente posso mirare il tuo volto."
 [00-09] "Di persona siete ancora più bella, milady. Un attimo soltanto e vi libererò dalla vostra prigione."
