@@ -276,7 +276,7 @@
 [05-09] "Il mio compito è quello di fermare ogni uomo che minacci di liberare il male sulle nostre terre, e quell'uomo sei tu."
 [06-09] "Ho combattuto tutta questa malvagità per liberare la principessa, affinché possa rimandare te e tutti i tuoi amici demonietti all'inferno, da dove siete venuti!"
 [07-09] "Un luogo che di sicuro le è molto famigliare, visto che lei viene da lì. E' la sovrana di queste bestie di cui parla, viene dalle stesse viscere dell'inferno!"
-[08-09] "Lo so che è un pò prepotente, ma non c'è bisogno d'essere maleducati."
+[08-09] "Lo so che è un po' prepotente, ma non c'è bisogno d'essere maleducati."
 [09-09] "Mente! Uccidi quel bastardo!"
 [0A-09] "Non stai aiutando la tua causa. Vorresti insinuare che la principessa ha qualcosa a che fare con tutto quello che va storto al mondo?"
 [0B-09] "La tua promessa sposa qui presente ne è la causa diretta!"

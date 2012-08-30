@@ -43,7 +43,7 @@
 [05-09] "Il mio dovere consiste nel fermare tutti coloro che minacciano di liberare il male su questo paese, e voi siete uno di loro."
 [06-09] "Sto combattendo questo male per dare alla principessa la libertà così può mandare voi e tutti i vostri piccoli amici demoni indietro all'inferno da dove venite."
 [07-09] "Un posto che conosce molto bene visto che lei proviene da lì. È lei la regina dei demoni di cui parli, lei stessa è l'incarnazione dell'inferno!"
-[08-09] "Lo so che lei è un pò prepotente, ma non c'è motivo per essere maleducati."
+[08-09] "Lo so che è un po' prepotente, ma non c'è bisogno d'essere maleducati."
 [09-09] "Mente!  Uccidete il bastardo!"
 [0A-09] "Non peggiorate la vostra posizione. State insinuando che la principessa ha qualcosa a che fare con tutto quello che sta accadendo nel mondo?"
 [0B-09] "La vostra fidanzata è la causa diretta di tutto!"
