@@ -368,7 +368,7 @@
 [61-09] "Lascerò a voi due il compito di venirne a capo. Nel frattempo, questi zombie non sono così terribili."
 [62-09] "Questo è inaccettabile, miserabile piccolo sorcio. Voi mi libererete, e lo farete adesso!"
 [63-09] "Io governerò questa terra e tu sarai al mio fianco!"
-[64-09] "C'è un'altra cosa.  Sono affascinato... e stranamente eccitato.. Tuttavia preferisco andar via.  Buona fortuna, e oh, non scordatevi di scrivere."
+[64-09] "C'è uno sviluppo.  Sono tentato... e stranamente eccitato.. Tuttavia preferisco ancora andar via.  Buona fortuna, e oh... non dimenticate di scrivere!"
 [65-09] "Ritornate qui codardo infedele, e inchinatevi davanti alla regina!"
 [66-09] "Ritornate qui stupido deficente, e uccidete la regina!"
 [67-09] "Voi due avete seri problemi di auto-controllo, lo sapete, vero?"
