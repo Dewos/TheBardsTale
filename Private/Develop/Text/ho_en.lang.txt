@@ -51,7 +51,7 @@
 [DF-00] "Ratti ha detto? Nella cantina... oh che clichè, tesoro, ma ti perdono questa volta."
 [E0-00] "Oh, la mia "spada" è grande abbastanza per occuparsi di qualsiasi "preoccupazione" tu abbia."
 [E1-00] "Consideralo un consiglio."
-[E2-00] "Missione Completata. Evvita (Questo è un test)!"
+[E2-00] "Missione Compiuta!"
 [E3-00] "Fareste meglio a sperare che mi calmi prima di tornare o siete voi i prossimi!"
 [E4-00] "Sarà meglio che sia più di un bacio per rimediare a tutto questo!"
 [E5-00] "Chi diavolo sei tu? Come sei arrivato quaggiù?"
