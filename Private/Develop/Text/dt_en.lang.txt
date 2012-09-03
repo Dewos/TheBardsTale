@@ -1,5 +1,5 @@
 [01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
-[E2-00] "Missione Finalmente Finita (test 2)!"
+[E2-00] "Missione Compiuta!"
 [EA-05] "Allora è vero."
 [EB-05] "Non so a che gioco reciti venendo qui, ma se ne pentirà. Lasciatelo passare senza ostacoli per il cancello nord. Quando è dentro la città, attaccheremo."
 [D5-06] "È sfuggito alle nostre trappole?"
