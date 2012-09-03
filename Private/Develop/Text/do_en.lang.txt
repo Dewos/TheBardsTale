@@ -1,5 +1,5 @@
 [01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
-[E2-00] "Missione Compiuta (Terst 3)!"
+[E2-00] "Missione Compiuta!"
 [FE-00] "Dovresti rimanere qui e ubriacarti con noi, amico mio. L'intera città sta per cadere all'inferno, quindi cosa diavolo ce ne faremo del fegato?"
 [EC-01] "Una donazione, figliolo?"
 [E2-05] "Il Bardo si diresse a Dounby dal nord, senza liberarsi dalla strana sensazione di sentirsi osservato."
