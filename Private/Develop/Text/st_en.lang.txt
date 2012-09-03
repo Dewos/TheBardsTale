@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
 [AD-07] "Non appena il Bardo entrò nel piccolo villaggio vichingo, si accorse subito che tutto era morto... letteralmente. L'inferno era già passato per Stromness, e il Bardo, come sempre, era sulle sue tracce."
 [AE-07] "Quelli come te non sono ammessi nel villaggio."
 [AF-07] "Non sono ammessi i Bardi?"

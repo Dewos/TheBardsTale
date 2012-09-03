@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
 [66-01] "Che ti guardi? Non hai mai visto un Firbolg?"
 [67-01] "Scusa"
 [68-01] "Scusami."

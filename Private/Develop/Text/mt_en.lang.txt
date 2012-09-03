@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
 [31-02] "Hmm questa parete non mi sembra in ottima forma, suppongo non costruiscano le belle tombe gelide d'un tempo piene di zombie assetati di vendetta."
 [32-02] "Non hai idea di quanto mi scandi il cuore sentirti dirtelo dire. Dammi un momento per buttar giù due righe nel mio diario."
 [33-02] "Ancora tu? Mettiamo la parola fine a tutto questo!"

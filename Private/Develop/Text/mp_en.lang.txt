@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
 [ED-01] "Non potresti essere un po' meno melodrammatico? Qui è già abbastanza freddo senza che ti ci metta anche tu."
 [EE-01] "Non so se hai notato, ma da queste parti fa un po' freddino."
 [EF-01] "Dillo al mio culo."

@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
 [31-08] "Mentre gironzolava lungo gli argini, il Bardo incontrò per caso due Trow che litigavono. Oppure era un Trow che litigava con una botte di vino ubriaca fradicia? In ogni caso, si ritrovò coinvolto suo malgrado in mezzo... Uno dei suoi talenti più grandi."
 [32-08] "Ehi! Aiuto! Aiuto! Mi sta per picchiare senza nessuna ragione! Aiuto! Fermalo!"
 [33-08] "Nessuna ragione!! Hai bevuto mezza botte di vino e hai cercato di scolarti l'altra mezza prima che me ne accorgessi! Signore! Afferralo e tiralo fuori, poi tienilo fermo mentre gli faccio la pelle!"

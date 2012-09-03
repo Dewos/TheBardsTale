@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
 [43-07] "Il nostro eroe, dimostratosi un osso duro con i guardiani della torre, venne rinchiuso al suo interno... Forse seppellito per il resto della sua inevitabile breve vita."
 [44-07] "Sopravviverò a questo solo per farti un dispetto!"
 [45-07] "Non proseguire. Sono Mannanan, il guardiano di questa torre, e tu non sei il benvenuto in questo luogo. Ti do la possibilità di andartene. Da qui non passerai."

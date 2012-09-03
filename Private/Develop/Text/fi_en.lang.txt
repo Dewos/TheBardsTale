@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
 [50-05] "Il Bardo fece il suo ingresso a Finstown, dove lo attendevano una tiepida accoglienza e persone cortesi."
 [51-05] "Ecco!  Arriva il Bardo!"
 [52-05] "Sì, sono io! Il vostro eroe è arrivato! Pare proprio che la mia reputazione mi abbia preceduto."
