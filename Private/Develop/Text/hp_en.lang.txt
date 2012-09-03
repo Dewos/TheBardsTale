@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
 [84-08] "Ed il bardo, ormai succube dei desideri della sua promessa sposa, si diresse verso il parco dell'Altipiano infestato dal Trow."
 [85-08] "Prima che tu apra bocca... Non sono venuto qui per darti delle noie."
 [86-08] "Tu non darmi noie e io non ne darò a te. Cosa ti porta qui?"

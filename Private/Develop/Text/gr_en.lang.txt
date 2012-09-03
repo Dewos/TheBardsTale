@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
 [04-00] "Non rimarrai deluso se mi salverai."
 [DD-06] "Continui nonostante i nostri sforzi?"
 [DE-06] "Sempre se quello che avete fatto sinora si possa chiamare "sforzo"."

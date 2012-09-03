@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
 [CA-08] "Mentre il Bardo si avvicinava alla Torre nella foresta, una scena di grande interesse si svolgeva in cima ad un'altra torre, nella città di Dounby, a molte miglia di distanza..."
 [CB-08] "Cathbad, raduna i fratelli. Qualcuno si sta avvicinando alla prima torre."
 [CC-08] "Immediatamente, signore!"

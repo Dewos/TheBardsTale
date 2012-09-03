@@ -1,4 +1,4 @@
-[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace. Missione Compiuta! (Test CONFLITTO: linea online)"
+[01-00] "Qui Erik il Vichingo giace, a Valhalla ora combatte, così assai gli piace."
 [C1-02] "No! Dannazione... Volevo... Vattene!"
 [C2-02] "Non so, non sembri molto simpatico."
 [C3-02] "Che vuoi che ti dica? Vattene pure a salvare il mondo, io rimarrò al sicuro."
